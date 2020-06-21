@@ -1,7 +1,7 @@
 # Chat_Room
 
 Ce projet est une collaboration entre:
-Eric MOUSODOUMANFOUMBI
+Eric MOUSSODOU MANFOUMBI
 Richard TAQUET
 Adrien LEGEAY
 Anourah NDAO
